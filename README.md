@@ -1,5 +1,5 @@
-### 👋 Hi, I’m @usuladams or Adem USUL
-### 👋 https://www.linkedin.com/in/ademusul/
+## 👋 Hi, I’m @usuladams or Adem USUL
+
 
 <img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://www.pentalog.com/wp-content/uploads/2020/03/DevOps-engineer-job-roles-and-responsibilities.png" width="497" height="264">
 
