@@ -1,7 +1,9 @@
-<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" alt="emoji" width="50"/><strong> Hey! Nice to see you.</strong>
+<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" alt="emoji" width="50"/><strong>  Hey! Nice to see you.</strong>
+---
+
 
 Welcome to my page!  
-I'm **@usuladams** or **Adem**, ☁️ AWS | 🚀 DevOps Engineer currently living in 🇹🇷 Turkey.
+I'm **@usuladams** or **Adem**, ☁️ AWS | 🚀 DevOps Engineer from 🇹🇷 Turkey.
 
 
 <img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://miro.medium.com/v2/resize:fit:1076/1*57__j14aNQfmPZyFoS1yRg.png" width="497" height="264">
