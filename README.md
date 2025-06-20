@@ -1,3 +1,6 @@
+# 👋 Hi, I’m @usuladams or Adem USUL
+
+## 🚀 AWS | DevOps | Cloud | Automation
 
 <img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://miro.medium.com/v2/resize:fit:1076/1*57__j14aNQfmPZyFoS1yRg.png" width="497" height="264">
 
