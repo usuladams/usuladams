@@ -1,12 +1,6 @@
-![image](https://github.com/user-attachments/assets/77e1b92d-9bd3-4d6b-b1cc-5895148dffe5) ## Hey! Nice to see you.
-
-!Welcome to my page!
-
-!I'm @usuladams or Adem,  ☁️ AWS | 🚀 DevOps Engineer  currently living in 🇹🇷 Turkey.
-
-
-<h1>😎 Welcome to my page!</h1>
+<h1>[image](https://github.com/user-attachments/assets/77e1b92d-9bd3-4d6b-b1cc-5895148dffe5) Hey! Nice to see you. </h1>
 <p>
+  Welcome to my page!
   I'm <strong>@usuladams</strong> or <strong>Adem</strong>, ☁️ AWS | 🚀 DevOps Engineer currently living in 🇹🇷 Turkey.
 </p>
 
