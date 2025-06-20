@@ -10,3 +10,43 @@
 usuladams/usuladams is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+# 👋 Merhaba, ben [Adınız]! 
+
+## 🚀 AWS | DevOps | Cloud | Automation
+
+Ben bir **AWS DevOps Engineer**'ım. Otomasyon, CI/CD süreçleri, altyapının kod ile yönetimi ve bulut tabanlı modern çözümler üretmekte uzmanım. Güncel teknolojileri takip eder, üretkenliği ve güvenliği ön planda tutarım.
+
+---
+
+### 🧰 Kullandığım ve Uzman Olduğum Araçlar & Teknolojiler
+
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+---
+
+### 📈 GitHub İstatistiklerim
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+
+---
+
+### 📫 Bana Ulaşın
+- 🔗 [LinkedIn](https://linkedin.com/in/your-linkedin)
+- 📧 your.email@example.com
+- 🌐 [Kişisel Blog ya da Portföy (varsa)](https://your-portfolio.com)
+
+---
+
+> 💡 “Otomasyon bir tercih değil, zorunluluktur.”
