@@ -1,6 +1,7 @@
-# 👋 Hi, I’m @usuladams or Adem USUL
+#  ![image](https://github.com/user-attachments/assets/77e1b92d-9bd3-4d6b-b1cc-5895148dffe5) Hey! Nice to see you.
 
-## 🚀 AWS | DevOps | Cloud | Automation
+## Welcome to my page!
+## I'm @usuladams or Adem,  ☁️ AWS | 🚀 DevOps Engineer  currently living in 🇹🇷 Turkey.
 
 <img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://miro.medium.com/v2/resize:fit:1076/1*57__j14aNQfmPZyFoS1yRg.png" width="497" height="264">
 
