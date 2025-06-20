@@ -1,6 +1,5 @@
 <img src="https://github.com/user-attachments/assets/77e1b92d-9bd3-4d6b-b1cc-5895148dffe5" alt="emoji" width="50"/><strong> Hey! Nice to see you.</strong>
-
-Welcome to my page!  
+data-canonical-src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"Welcome to my page!  
 I'm **@usuladams** or **Adem**, ☁️ AWS | 🚀 DevOps Engineer currently living in 🇹🇷 Turkey.
 
 
