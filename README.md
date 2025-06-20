@@ -1,4 +1,4 @@
-<h1>[image](https://github.com/user-attachments/assets/77e1b92d-9bd3-4d6b-b1cc-5895148dffe5) Hey! Nice to see you. </h1>
+<h1>![image](https://github.com/user-attachments/assets/77e1b92d-9bd3-4d6b-b1cc-5895148dffe5) Hey! Nice to see you. </h1>
 <p>
   Welcome to my page!
   I'm <strong>@usuladams</strong> or <strong>Adem</strong>, ☁️ AWS | 🚀 DevOps Engineer currently living in 🇹🇷 Turkey.
